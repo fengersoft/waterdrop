@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/add.png</file>
+        <file>res/subject.png</file>
+        <file>res/txt.png</file>
+        <file>res/none.png</file>
+        <file>res/copy.png</file>
+        <file>res/paste.png</file>
+        <file>res/search.png</file>
+        <file>res/snap.png</file>
+        <file>res/delete.png</file>
+        <file>res/rect.png</file>
+        <file>res/selRect.png</file>
+        <file>res/inverseSelect.png</file>
+        <file>res/deselect.png</file>
+        <file>res/leftAlign.png</file>
+        <file>res/rightAlign.png</file>
+        <file>res/article.png</file>
+        <file>res/save.png</file>
+        <file>res/line2.png</file>
+        <file>res/avg.png</file>
+        <file>res/img.png</file>
+        <file>res/note.png</file>
+        <file>res/voice.png</file>
+        <file>res/voicewave.png</file>
+    </qresource>
+</RCC>
